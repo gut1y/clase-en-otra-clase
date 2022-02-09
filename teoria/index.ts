@@ -23,6 +23,7 @@ function main() {
   const unaBanda = new Banda(["marce"], [unAlbum]);
   console.log("verrr", unaBanda.albums);
   console.table(unaBanda);
+  console.log("otro cambio")
 }
 
 main();
